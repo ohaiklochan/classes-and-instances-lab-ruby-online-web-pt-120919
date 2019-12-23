@@ -1,7 +1,7 @@
 class Dog
 end
 
-Wishbone = Dog.new
-Lassie = Dog.new
+Fido = Dog.new
+Snoopy = Dog.new
 Clifford = Dog.new
 
