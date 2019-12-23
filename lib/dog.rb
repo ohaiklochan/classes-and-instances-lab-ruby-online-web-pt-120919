@@ -1,9 +1,9 @@
 class Dog
 end
 
-Fido = Dog.new
-Snoopy = Dog.new
-Lassie = Dog.new
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
 
 class Person
 end
